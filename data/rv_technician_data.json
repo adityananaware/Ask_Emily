@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John's RV Repair",
+    "location": "Yellowstone, WY",
+    "specialties": ["Engine Repair", "Electrical Systems"],
+    "contact": "555-1234"
+  },
+  {
+    "name": "Quick Fix RV",
+    "location": "Denver, CO",
+    "specialties": ["Plumbing", "HVAC"],
+    "contact": "555-5678"
+  }
+]

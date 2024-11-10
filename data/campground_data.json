@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mountain View Campground",
+    "location": "Yellowstone, WY",
+    "amenities": ["Water", "Electricity", "Wi-Fi"],
+    "discount": "10%"
+  },
+  {
+    "name": "Sunny Lake Park",
+    "location": "Denver, CO",
+    "amenities": ["Full Hookup", "Showers", "Laundry"],
+    "discount": "15%"
+  }
+]
