@@ -1,0 +1,8 @@
+greeting:
+  - "Hello! I'm Emily, your AI trip assistant. How can I assist you today?"
+trip_planning:
+  - "Where would you like to go? I can help with campground recommendations and itinerary planning."
+gps_navigation:
+  - "Let me check the route for you. Could you specify your RV size?"
+technician_finder:
+  - "I'll find a nearby RV technician for you. Please share your location and issue."
